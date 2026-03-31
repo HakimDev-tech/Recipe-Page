@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Recipe page
 
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
@@ -100,3 +101,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Recipe-Page
+Build a responsive recipe page replicating the provided design. Practice HTML and CSS, maintain semantic structure, follow the style guide for colors and fonts, and ensure accessibility. Focus on layout, typography, and spacing for a clean, user-friendly interface.
+>>>>>>> 7af8d6eb3bc07a8da9b0007493a23425b1311536
